@@ -24,11 +24,16 @@ def get_json_data():
 		# print "eduists: ", eduists
 		return (json.dumps(eduists))
 
+@app.route("/error")
+def error():
+    raise Exception("Error!")
+
 #-HELPER FUNCTIONS--------------------------------------------------------------------#
 if __name__ == "__main__":
 
-    app.run()
-# debug = True
+    PORT = int(os.environ.get("PORT", 5000))
+    DEBUG = "NO_DEBUG" not in os.environ
 
+    app.run(debug=DEBUG, host="0.0.0.0", port=PORT)
 
 
