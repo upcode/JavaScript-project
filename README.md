@@ -23,8 +23,9 @@ Constructed a horizontal timeline using Python, Flask and JavaScript. Timeline d
     - MacOS
 
 ## Project Image with screen Video
-TODO ADD after deployment
---also add web link
+![Image of Yaktocat](https://github.com/upcode/JavaScript-project/blob/master/static/img/timeline.jpg?raw=true)
+![Image of Yaktocat](https://github.com/upcode/JavaScript-project/blob/master/static/img/timeline1.jpg?raw=true)
+
 
 ## Installation
 Project includes Python files, JavaScript files and JSON(JavaScript Object Notation) files to add more data.
