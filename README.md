@@ -22,9 +22,11 @@ Constructed a horizontal timeline using Python, Flask and JavaScript. Timeline d
     - Windows
     - MacOS
 
-## Project Image with screen Video
+## Project
+**Timeline**
 ![Image of Yaktocat](https://github.com/upcode/JavaScript-project/blob/master/static/img/timeline.jpg?raw=true)
-![Image of Yaktocat](https://github.com/upcode/JavaScript-project/blob/master/static/img/timeline1.jpg?raw=true)
+
+![Image of Yaktocat](https://github.com/upcode/JavaScript-project/blob/master/static/img/timeline2.jpg?raw=true)
 
 
 ## Installation
