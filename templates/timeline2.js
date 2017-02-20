@@ -1,6 +1,7 @@
 $('document').ready(function() {
     var inputs = {};
-    $.get('/input_data.json', inputs, parseData)
+    console.log(inputs)
+    $.get("https://gist.githubusercontent.com/benshine/392d95f7cb0f8e299599/raw/e20cf9b7e59b7090c856c88b74c5b4084298edd7/eduists.json", inputs, parseData);
 
     function parseData(data) {
         console.log("preparse data", data);
