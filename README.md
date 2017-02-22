@@ -1,4 +1,4 @@
-![IMAGE ALT TEXT HERE](https://pbs.twimg.com/profile_images/441333137885233152/IAMb5_G2_bigger.png)  **AltSchool Software Engineering**
+
 =
 
 ***
